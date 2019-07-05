@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">FoodJournal</string>
+    <string name="app_name">Food Journal</string>
     <string name="action_settings">Settings</string>
+    <string name="action_sort">Sort By</string>
+    <string name="action_restaurant">Restaurants</string>
+    <string name="action_dish">Food</string>
+    <string name="action_search">Search</string>
+    <string name="pageName">Screen</string>
 </resources>

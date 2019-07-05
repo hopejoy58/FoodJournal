@@ -7,4 +7,21 @@
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sort"
+        android:orderInCategory="100"
+        android:title="@string/action_sort"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_restaurant"
+        android:orderInCategory="100"
+        android:title="@string/action_restaurant"
+        app:showAsAction="always" />
+        />
+    <item
+        android:id="@+id/action_dish"
+        android:orderInCategory="100"
+        android:title="@string/action_dish"
+        app:showAsAction="always" />
+    />
 </menu>
